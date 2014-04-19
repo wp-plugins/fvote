@@ -4,7 +4,7 @@ Plugin Name: fVote
 Plugin URI: http://wordpress.org/extend/plugins/fVote
 Description: fVote is a Poll plugin for specific questions
 Author: wp-plugin-dev.com
-Version: 0.5
+Version: 0.51
 Author URI: http://www.wp-plugin-dev.com
 Text Domain:   fVote
 Domain Path:   /lang/

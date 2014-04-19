@@ -3,8 +3,8 @@ Contributors: theode
 Donate link: http://www.wp-plugin-dev.com/donate
 Tags: voting,poll,vote,questionary
 Requires at least: 3.0
-Tested up to: 3.6-beta2-24227
-Stable tag: 0.5
+Tested up to: 3.9
+Stable tag: 0.51
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
